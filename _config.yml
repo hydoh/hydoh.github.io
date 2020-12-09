@@ -16,9 +16,7 @@
 title: Hoyoung's homepage
 email: hoyoung.doh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hoyoung Doh's personal website
 twitter_username: hoyoung_doh
 github_username: hydoh
 minimal_mistakes_skin: "dark"
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Hoyoung Doh"
   avatar : "/assets/images/bio-2020-12-09.jpeg"
-  bio    : "Cognitive psychology graduate student, studying human decision-making using computational modeling"
+  bio    : "Cognitive psychology graduate student [@CCS Lab](https://ccs-lab.github.io/), studying human decision-making using computational modeling"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
