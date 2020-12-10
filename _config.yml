@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/bio-2020-12-09.jpeg"
   bio    : "Cognitive psychology graduate student [**@CCS Lab**](https://ccs-lab.github.io/), studying human decision-making using computational modeling"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hoyoung.doh@gmail.com"    
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
