@@ -1,8 +1,6 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /posts/
   - title: "CV"
     url: /assets/Hoyoung-Doh-CV-2021-11-01.pdf
   # - title: "Categories"
