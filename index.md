@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Hoyoung's homepage"
 author_profile: true
 ---
 
