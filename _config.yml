@@ -59,6 +59,7 @@ author:
   name   : "Hoyoung Doh"
   avatar : "/assets/images/bio-2021-11-06.jpg"
   # bio    : "Cognitive psychology graduate student [**@CCS Lab**](https://ccs-lab.github.io/), studying human decision-making using computational modeling"
+  bio    : " "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
