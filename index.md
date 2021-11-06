@@ -4,7 +4,7 @@ title: "About"
 author_profile: true
 ---
 
-Hoyoung is a graduate student in the [CCS Lab](https://ccs-lab.github.io/) starting from March 2020. He received a bachelor’s degree in Psychology from Seoul National University in February 2020. He is broadly interested in computational modeling of cognition. One of his goals is to build computational models that closely reflect the characteristics of human decision-making.
+I am a graduate student studying cognitive psychology in the [Computational Clinical Science Lab](https://ccs-lab.github.io/) at Seoul National University, South Korea.
 
 # Research interests
 * Decision-making
