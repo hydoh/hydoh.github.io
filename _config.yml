@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hoyoung Doh's personal website
 twitter_username: hoyoung_doh
 github_username: hydoh
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "contrast"
 search: true
 
 # Build settings
