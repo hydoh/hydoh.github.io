@@ -8,5 +8,6 @@ Hoyoung is a graduate student in the [CCS Lab](https://ccs-lab.github.io/) start
 
 # Research interests
 * Decision-making
+* Reinforcement learning
 * Pavlovian and instrumental conditioning
 * Computational modeling
