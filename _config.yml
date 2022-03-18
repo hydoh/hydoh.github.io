@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Hoyoung Doh"
   avatar : "/assets/images/bio-2021-11-06.jpg"
-  bio    : "Graduate student in cognitive psychology"
+  bio    : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
