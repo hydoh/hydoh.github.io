@@ -1,7 +1,5 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Implementing the RL-DDM in hBayesDM"
 author_profile: true
 ---
 
