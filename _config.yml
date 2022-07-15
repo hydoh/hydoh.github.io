@@ -98,7 +98,7 @@ defaults:
       author_profile: true
   # _posts
   - scope:
-      path: "" # "_posts"
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -114,8 +114,3 @@ defaults:
 # tag_archive:
 #   type: liquid
 #   path: /tags/
-
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/

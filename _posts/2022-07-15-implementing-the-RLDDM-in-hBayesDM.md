@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Implementing the RL-DDM in hBayesDM"
 author_profile: true
 ---
