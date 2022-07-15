@@ -114,3 +114,8 @@ defaults:
 # tag_archive:
 #   type: liquid
 #   path: /tags/
+
+algolia:
+  # Exclude more files from indexing
+  files_to_exclude:
+    - _posts/2022-07-15-2022-07-15-example-post.md
