@@ -3,6 +3,8 @@ main:
     url: /
   - title: "CV"
     url: /assets/Hoyoung-Doh-CV-2022-07-10.pdf
+  - title: "Projects"
+    url: /assets/result_R_reg_pred_sim.html
 
   # - title: "Categories"
   #   url: /categories/
