@@ -1,6 +1,7 @@
 ---
-title: "Posts"
-permalink: /posts/
-layout: posts
+title: Projects
+layout: collection
+permalink: /projects/
+collection: projects
 author_profile: true
 ---
