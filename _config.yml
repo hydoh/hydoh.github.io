@@ -56,9 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hoyoung Doh"
-  avatar : "/assets/images/bio-2021-11-06.jpg"
-  bio    : ""
+  name     : "Hoyoung Doh"
+  avatar   : "/assets/images/bio-2021-11-06.jpg"
+  bio      : ""
+  location : "Seoul, South Korea"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
