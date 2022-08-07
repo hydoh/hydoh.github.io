@@ -9,4 +9,4 @@ author_profile: true
 
 I'm a research assistant studying cognitive psychology in the [Computational Clinical Science Lab](https://ccs-lab.github.io/) at Seoul National University, working with [Dr. Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/). I received a master's and a bachelor's degree in psychology from Seoul National University. 
 
-My main area of interest is learning and decision-making. Specifically, I study biases in learning and decision-making and with behavioral experiments and computational modeling.
+My main area of interest is learning and decision-making. Specifically, I study biases in learning and decision-making with behavioral experiments and computational modeling.
