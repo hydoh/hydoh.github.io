@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Hoyoung Doh"
 author_profile: true
 ---
 
