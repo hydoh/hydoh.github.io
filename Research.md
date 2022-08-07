@@ -9,7 +9,7 @@ author_profile: true
 
 ## 1) Pavlovian-instrumental conflict and mouse-tracking
 Pavlovian system provides preprogrammed responses to rewards and punishments, while instrumental system learns appropriate responses to get more rewards and avoid punishments. The two systems cooperate in many situations but they compete in others, hindering adaptive behavior. We investigate within-trial dynamics of the competition between Pavlovian and instrumental systems using mouse-tracking and extended drift-diffusion models.
-- Manuscript in preparation.
+- Manuscript in preparation
 - **Poster Spotlight** at the Society for Neuroeconomics Annual Meeting (2022, upcoming)
 - **Talk** at the Annual Meeting of the Society for Mathematical Psychology (2020)
 
@@ -30,4 +30,4 @@ The ability to withstand psychological distress (i.e, distress tolerance) is an 
 
 ## 4) fNIRS-fMRI mapping
 Functional magnetic resonance imaging (fMRI) markers of individual difference are useful but expensive and difficult to collect in children and infants. My colleagues and I predicted fMRI markers of response inhibition and prediction error from functional near-infrared spectroscopy (fNIRS) signals, which are cheaper and applicable to children.
-- [**Paper**](https://bi.snu.ac.kr/NeurIPS2020_Babymind/29.pdf) at NeurIPS 2020 BabyMind Workshop.
+- [**Paper**](https://bi.snu.ac.kr/NeurIPS2020_Babymind/29.pdf) at NeurIPS 2020 BabyMind Workshop
