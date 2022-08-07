@@ -30,4 +30,4 @@ The ability to withstand psychological distress (i.e, distress tolerance) is an 
 
 ## 4) fNIRS-fMRI mapping
 Functional magnetic resonance imaging (fMRI) markers of individual difference are useful but expensive and difficult to collect in children and infants. My colleagues and I predicted fMRI markers of response inhibition and prediction error from functional near-infrared spectroscopy (fNIRS) signals, which are cheaper and applicable to children.
-- [Paper](https://bi.snu.ac.kr/NeurIPS2020_Babymind/29.pdf) at NeurIPS 2020 BabyMind Workshop.
+- [**Paper**](https://bi.snu.ac.kr/NeurIPS2020_Babymind/29.pdf) at NeurIPS 2020 BabyMind Workshop.
