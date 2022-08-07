@@ -5,8 +5,4 @@ layout: single
 author_profile: true
 ---
 
-<object data="https://hydoh.github.io//assets/CV.pdf" type="application/pdf" width="800px" height="800px">
-    <embed src="https://hydoh.github.io//assets/CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://hydoh.github.io//assets/CV.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="https://drive.google.com/file/d/1Y8eOZYLwYHY-01rcqZ4mZqBEdixME9yT/preview" width="900" height="1100" allow="autoplay"></iframe>
