@@ -16,14 +16,14 @@ Pavlovian system provides preprogrammed responses to rewards and punishments, wh
 <br/>
 
 ## 2) Pavlovian-instrumental conflict and working-memory load
-Literature has shown that working memory load leads to a greater reliance on computationally cheaper decision-making system (e.g. in the competition between model-free and model-based systems). However, whether this is also true for the competition between Pavlovian and instrumental systems has not been examined yet. My colleagues and I tested if working memory load enhances Pavlovian system in Pavlovian-instrumental conflict. Working memory load did not strengthen Pavlovian system, but resulted in slower learning and more random choices.
+Literature has shown that working memory load leads to greater reliance on computationally cheaper decision-making systems (e.g., in the competition between model-free and model-based systems). However, whether this is also true for the competition between Pavlovian and instrumental systems has not been examined yet. My colleagues and I tested if working memory load enhances Pavlovian system in Pavlovian-instrumental conflict. Working memory load did not strengthen Pavlovian system, but resulted in slower learning and more random choices.
 - [**Preprint**](https://doi.org/10.1101/2022.08.01.502269)
 - **Poster** at the COSYNE Annual Meeting (2022)
 
 <br/>
 
 ## 3) Stress and smoking
-The ability to withstand psychological distress (i.e, distress tolerance) is an important predictor of smoking cessation relapses. My colleagues and I examine how smokers with high and low distress tolerance differ in smoking behaviors in response to daily stress during a five-week smoking cessation clinic.
+The ability to withstand psychological distress (i.e., distress tolerance) is an important predictor of smoking cessation relapses. My colleagues and I examine how smokers with high and low distress tolerance differ in smoking behaviors in response to daily stress during a five-week smoking cessation clinic.
 - Manuscript in preparation
 
 <br/>
