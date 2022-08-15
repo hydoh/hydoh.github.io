@@ -11,6 +11,7 @@ author_profile: true
 The Pavlovian system provides preprogrammed responses to rewards and punishments, while the instrumental system learns appropriate responses to get more rewards and avoid punishments. The two systems cooperate in many situations but they compete in others, hindering adaptive behavior. My colleagues and I investigate the within-trial dynamics of the competition between the Pavlovian and instrumental systems using mouse-tracking and extended drift-diffusion models.
 - Manuscript in preparation
 - **Poster Spotlight** at the Society for Neuroeconomics Annual Meeting (2022, upcoming)
+- [**Master's thesis**](https://dcollection.snu.ac.kr/common/orgView/000000171035) at Seoul National University (2022)
 - **Talk** at the Annual Meeting of the Society for Mathematical Psychology (2020)
 
 <br/>
