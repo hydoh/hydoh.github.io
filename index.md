@@ -1,11 +1,9 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 layout: single
 author_profile: true
 ---
-
-# About Me
 
 I'm a research assistant studying cognitive psychology in the [Computational Clinical Science Lab](https://ccs-lab.github.io/) at Seoul National University, working with [Dr. Woo-Young Ahn](https://ccs-lab.github.io/team/young-ahn/). I received my master's and bachelor's degrees in psychology from Seoul National University. 
 

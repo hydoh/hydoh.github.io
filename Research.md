@@ -1,11 +1,9 @@
 ---
-title: ""
+title: "Research Projects"
 permalink: /research/
 layout: single
 author_profile: true
 ---
-
-# Research Projects
 
 ## Pavlovian-instrumental conflict and mouse-tracking
 The Pavlovian system provides preprogrammed responses to rewards and punishments, while the instrumental system learns appropriate responses to get more rewards and avoid punishments. The two systems cooperate in many situations but they compete in others, hindering adaptive behavior. My colleagues and I investigate the within-trial dynamics of the competition between the Pavlovian and instrumental systems using mouse-tracking and extended drift-diffusion models.
