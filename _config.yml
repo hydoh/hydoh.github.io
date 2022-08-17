@@ -120,3 +120,12 @@ algolia:
   # Exclude more files from indexing
   files_to_exclude:
     - _posts/2022-07-15-2022-07-15-example-post.md
+
+
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-QZV0N3XKYT"
+    anonymize_ip         : # true, false (default)
