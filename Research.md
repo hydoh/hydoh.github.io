@@ -6,16 +6,17 @@ author_profile: true
 ---
 
 ## Pavlovian-instrumental conflict and mouse-tracking
-The Pavlovian system provides preprogrammed responses to rewards and punishments, while the instrumental system learns appropriate responses to get more rewards and avoid punishments. The two systems cooperate in many situations but they compete in others, hindering adaptive behavior. My colleagues and I investigate the within-trial dynamics of the competition between the Pavlovian and instrumental systems using mouse-tracking and extended drift-diffusion models.
+The Pavlovian and instrumental systems are two fundamental decision-making systems in humans and animals. The instrumental system learns appropriate responses to get more rewards and avoid punishments, while the Pavlovian system provides preprogrammed responses to rewards and punishments. The two systems cooperate in many situations but they compete in others. One important limitation of previous studies is that the interaction between the two systems has been studied only using the final response in each trial. This makes it challenging to examine the mechanism in more depth. In this project, we use mouse-tracking to investigate within-trial dynamics of the cooperation and competition between the two systems.
+
 - Manuscript in preparation
-- **Poster spotlight** at the Society for Neuroeconomics Annual Meeting (2022, upcoming)
+- [**Poster spotlight**](https://drive.google.com/file/d/1HVFOSLugZN8pSNJ-MEAJQShdoEgetUsz/view?usp=sharing) at the Society for Neuroeconomics Annual Meeting (2022)
 - [**Master's thesis**](https://dcollection.snu.ac.kr/common/orgView/000000171035) at Seoul National University (2022)
 - **Talk** at the Annual Meeting of the Society for Mathematical Psychology (2020)
 
 <br/>
 
 ## Pavlovian-instrumental conflict and working-memory load
-Researchers have proposed that working memory load leads to greater reliance on computationally cheaper decision-making systems (e.g., the model-free system) rather than more expensive ones (e.g., the model-based system). However, this hypothesis has not been tested in decision-making involving Pavlovian-instrumental conflict, where the Pavlovian system is computationally less demanding than the instrumental system. My colleagues and I tested if working memory load enhances the Pavlovian system in Pavlovian-instrumental conflict. The results showed that working memory load did not strengthen the Pavlovian system but led to slower instrumental learning and more random choices. Our fMRI results showed that working memory load strengthened the reward prediction error signal in the striatum and weakened the connectivity between the striatum and prefrontal cortex.
+Researchers have proposed that working memory load leads to greater reliance on computationally cheaper decision-making systems (e.g., the model-free system) rather than more expensive ones (e.g., the model-based system). However, this hypothesis has not been tested in decision-making involving Pavlovian-instrumental conflict, where the Pavlovian system is computationally cheaper than the instrumental system. My colleagues and I tested if working memory load enhances the Pavlovian system during Pavlovian-instrumental conflict. The results showed that working memory load did not strengthen the Pavlovian system but led to slower instrumental learning and more random choices. Our fMRI results showed that working memory load strengthened the reward prediction error signal in the striatum and weakened the connectivity between the striatum and prefrontal cortex.
 - [**Preprint**](https://doi.org/10.1101/2022.08.01.502269)
 - **Poster** at the COSYNE Annual Meeting (2022)
 
